@@ -1,0 +1,21 @@
+# Logs
+logs/
+*.log
+
+# Dependencias
+node_modules/
+
+# Archivos de configuración de entorno
+.env
+
+# Directorios de construcción
+dist/
+build/
+
+# Archivos temporales de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos temporales de editores/IDEs
+.vscode/
+.idea/
